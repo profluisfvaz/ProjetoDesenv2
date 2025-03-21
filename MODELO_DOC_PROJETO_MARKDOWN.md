@@ -1,5 +1,10 @@
-# Título (nome do projeto/app)
-Subtítulo
+# Documentação do Projeto (Título/nome do projeto)
+#### Subtítulo
+
+Nome do(s) Autor(es)
+
+Este artigo tem como objetivo ilustrar a documentação de um projeto final na unidade curricular Projeto de Desenvolvimento II dos cursos Análise e Desenvolvimento de Sistemas, Sistemas para Internet e Ciência de Dados e Inteligência Analítica do Centro Universitário Senac-RS.
+
 -----
 
 ## Resumo do Projeto
@@ -50,6 +55,9 @@ Trata-se da descrição de como o sistema vai ser organizado de modo a atender o
 Apresentar a solução abordada para o problema proposto, o que foi implementado, etc
 
 A figura abaixo ilustra uma visão geral de solução
+![image](https://github.com/user-attachments/assets/1f35a7fa-9e8a-418b-bcc1-62942c57393f)
+
+
 
 Exemplo de visão geral da solução.
 
@@ -73,6 +81,7 @@ Este tópico deve apontar para o repositório que contém a listagem de artefato
 
 A figura abaixo ilustra uma visão geral de arquitetura (camadas do sistema)
 
+![image](https://github.com/user-attachments/assets/c800ea8c-98e2-412b-8e10-d8f3aaf0c8e6)
 
 
 Exemplo de visão geral da arquitetura do sistema.
